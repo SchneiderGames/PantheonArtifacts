@@ -1,0 +1,4 @@
+short;name;selectable;walkable
+tm;template;True;True
+gr;grass;True;True
+rk;rock;False;False
